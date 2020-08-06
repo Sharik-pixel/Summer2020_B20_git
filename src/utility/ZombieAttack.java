@@ -4,6 +4,8 @@ import java.util.*;
 
 public class ZombieAttack {
 
+
+
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
             int[] inhabitants = new int[8];
@@ -32,5 +34,8 @@ public class ZombieAttack {
             System.out.println("---- EXTINCT ----");
         }
     }
+
+
+
 
 
